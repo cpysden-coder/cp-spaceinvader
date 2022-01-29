@@ -10,7 +10,7 @@ Objects.prototype.spaceship = function(x,y,spaceship_image){
     this.width = 34;
     this.height = 28;
     this.spaceship_image = spaceship_image;
-    this.spaceship_image.src = "images/ship.png"
+    this.spaceship_image.src = "asstes/images/ship.png"
     return this;
 };
 
@@ -28,7 +28,7 @@ Objects.prototype.ufo = function(x, y, line, column, ufo_image){
     this.width = 32;
     this.height = 24;
     this.ufo_image = ufo_image;
-    this.ufo_image.src = "images/ufo.png";
+    this.ufo_image.src = "assets/images/ufo.png";
     return this;
 }
 
