@@ -10,7 +10,7 @@ Objects.prototype.spaceship = function(x,y,spaceship_image){
     this.width = 34;
     this.height = 28;
     this.spaceship_image = spaceship_image;
-    this.spaceship_image.src = "asstes/images/ship.png"
+    this.spaceship_image.src = "assets/images/ship.png"
     return this;
 };
 
