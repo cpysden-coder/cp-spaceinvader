@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: salmon;
-    /* background-image: url(../images/background.jpg); */
+    /* background-color: salmon; */
+    background-image: url(../images/background.jpg);
     background-repeat: repeat;
 }
