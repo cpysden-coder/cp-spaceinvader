@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: salmon;
+    /* background-color: salmon; */
     background-image: url(../assets/images/background.jpg);
     background-repeat: repeat;
 }
